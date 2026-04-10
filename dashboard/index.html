@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reddit Engagement Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo">
+                <div class="logo-icon">🚀</div>
+                <h2>Dashboard</h2>
+            </div>
+            <nav class="menu">
+                <button class="menu-item active" data-tab="n8n">
+                    <span class="icon">⚙️</span>
+                    r/n8n
+                </button>
+                <button class="menu-item" data-tab="automation">
+                    <span class="icon">🤖</span>
+                    r/automation
+                </button>
+            </nav>
+            
+            <div class="sidebar-bottom">
+                <div class="user-profile">
+                    <img src="https://ui-avatars.com/api/?name=User&background=0D8ABC&color=fff&rounded=true" alt="Profile">
+                    <div>
+                        <h4>Admin</h4>
+                        <p>Analyzer</p>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-header">
+                <h1>Top Engajamento</h1>
+                <div class="header-actions">
+                    <button class="btn-primary" onclick="window.location.reload()">Atualizar Dados</button>
+                </div>
+            </header>
+            
+            <div class="feed-container">
+                <!-- Feed N8N -->
+                <div id="feed-n8n" class="feed tab-content active">
+                    <div class="feed-header">
+                        <h2>Em Alta - n8n</h2>
+                        <span class="subtitle">Mostrando o Top 5 com mais engajamento</span>
+                    </div>
+                    <div class="posts-list" id="posts-n8n">
+                        <div class="loading" style="padding:2rem;">Carregando...</div>
+                    </div>
+                </div>
+
+                <!-- Feed Automation -->
+                <div id="feed-automation" class="feed tab-content">
+                    <div class="feed-header">
+                        <h2>Em Alta - Automation</h2>
+                        <span class="subtitle">Mostrando o Top 5 com mais engajamento</span>
+                    </div>
+                    <div class="posts-list" id="posts-automation">
+                        <!-- Vazio por padrão -->
+                    </div>
+                </div>
+            </div>
+            
+        </main>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>
