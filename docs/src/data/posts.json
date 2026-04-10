@@ -1,0 +1,76 @@
+{
+  "n8n": [
+    {
+      "title": "Construí um agente WhatsApp + voz AI em n8n que cuida de 90% do atendimento ao cliente. Vendi o negócio, o comprador manteve-o funcionando sem mim",
+      "engagement": 304,
+      "score": 263,
+      "num_comments": 41,
+      "link": "https://www.reddit.com/r/n8n/comments/1sc3i30/i_built_a_whatsapp_voice_ai_agent_in_n8n_that/"
+    },
+    {
+      "title": "Criei meu primeiro fluxo de trabalho n8n hoje (notícias &gt; resumo de IA &gt; e-mail). Procurando conselhos sobre o que aprender a seguir",
+      "engagement": 198,
+      "score": 167,
+      "num_comments": 31,
+      "link": "https://www.reddit.com/r/n8n/comments/1sa8xmg/built_my_first_n8n_workflow_today_news_ai_summary/"
+    },
+    {
+      "title": "[Fluxo de trabalho incluído] Um fluxo de trabalho simples de postagem no Instagram de 5 nós para iniciantes",
+      "engagement": 129,
+      "score": 105,
+      "num_comments": 24,
+      "link": "https://www.reddit.com/r/n8n/comments/1saacto/workflow_included_a_simple_5node_instagram/"
+    },
+    {
+      "title": "Eu configurei assistentes de IA baseados em n8n para mais de 10 pessoas não técnicas nos últimos 2 meses. Aqui está o que aprendi",
+      "engagement": 96,
+      "score": 73,
+      "num_comments": 23,
+      "link": "https://www.reddit.com/r/n8n/comments/1se1dv8/i_set_up_n8nbased_ai_assistants_for_10/"
+    },
+    {
+      "title": "Automatizei toda a minha estratégia de conteúdo X com n8n. aqui está tudo, código aberto",
+      "engagement": 93,
+      "score": 70,
+      "num_comments": 23,
+      "link": "https://www.reddit.com/r/n8n/comments/1sc90y5/i_automated_my_entire_x_content_strategy_with_n8n/"
+    }
+  ],
+  "automation": [
+    {
+      "title": "O que você acha",
+      "engagement": 869,
+      "score": 802,
+      "num_comments": 67,
+      "link": "https://www.reddit.com/r/automation/comments/1scc6tj/what_do_you_think/"
+    },
+    {
+      "title": "Cansei de fazer o Microsoft Rewards manualmente, então passei meses criando um aplicativo de desktop para automatizá-lo como um ser humano",
+      "engagement": 96,
+      "score": 55,
+      "num_comments": 41,
+      "link": "https://www.reddit.com/r/automation/comments/1sdc0u2/i_got_tired_of_doing_microsoft_rewards_manually/"
+    },
+    {
+      "title": "Estou executando manualmente as tarefas que a IA não consegue realizar para descobrir o que deve ser automatizado",
+      "engagement": 76,
+      "score": 23,
+      "num_comments": 53,
+      "link": "https://www.reddit.com/r/automation/comments/1sb453b/im_manually_doing_the_tasks_ai_cant_handle_to/"
+    },
+    {
+      "title": "Eu construí isso porque estava cansado de me perguntar o que meus agentes estavam fazendo e por quê.",
+      "engagement": 67,
+      "score": 25,
+      "num_comments": 42,
+      "link": "https://www.reddit.com/r/automation/comments/1seqrjc/i_built_this_because_i_was_tired_wondering_what/"
+    },
+    {
+      "title": "A conversa fiada sobre as capacidades dos agentes de IA no Reddit está ficando fora de controle",
+      "engagement": 65,
+      "score": 34,
+      "num_comments": 31,
+      "link": "https://www.reddit.com/r/automation/comments/1saabgz/the_bull_around_ai_agent_capabilities_on_reddit/"
+    }
+  ]
+}
