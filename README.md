@@ -75,7 +75,7 @@ Created for portfolio purposes to demonstrate proficiency in:
 - [ ] Create email/telegram alerts for extremely high-engagement posts.
 
 ## 👨‍💻 Author
-Developed by **Daniel Augusto Silva** (danidds07)
+Developed by **Daniel Augusto Silva**
 
 ---
 ⭐ If you find this project interesting, feel free to give it a star!
