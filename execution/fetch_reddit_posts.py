@@ -81,7 +81,7 @@ def main():
         # Sleep slightly to abide by rate limit etiquette
         time.sleep(2)
         
-    dashboard_data_path = os.path.join('dashboard', 'src', 'data', 'posts.json')
+    dashboard_data_path = os.path.join('docs', 'src', 'data', 'posts.json')
     if os.path.exists(os.path.dirname(dashboard_data_path)):
         with open(dashboard_data_path, 'w', encoding='utf-8') as f:
             json.dump(results, f, ensure_ascii=False, indent=2)
