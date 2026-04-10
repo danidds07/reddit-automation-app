@@ -57,7 +57,7 @@ python execution/fetch_reddit_posts.py
 To avoid CORS issues when fetching the JSON file, run a local server:
 ```bash
 # Using Python
-python -m http.server 8000 -d dashboard
+python -m http.server 8000 -d docs
 ```
 Then visit `http://localhost:8000` in your browser.
 
@@ -75,7 +75,7 @@ Created for portfolio purposes to demonstrate proficiency in:
 - [ ] Create email/telegram alerts for extremely high-engagement posts.
 
 ## 👨‍💻 Author
-Developed by **Daniel Augusto Silva**
+Developed by **Daniel Augusto Silva** (danidds07)
 
 ---
 ⭐ If you find this project interesting, feel free to give it a star!
