@@ -15,7 +15,7 @@ The main goal is to showcase the integration between **Python backend logic** (d
 
 ## 🏗️ Project Structure
 ```
-RedditAutomationApp/
+reddit-automation-app/
 ├── .github/workflows/
 │   └── update_data.yml      # CI/CD pipeline for auto-updates
 ├── dashboard/
@@ -40,7 +40,7 @@ RedditAutomationApp/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/danidds07/RedditAutomationApp.git
+git clone https://github.com/danidds07/reddit-automation-app.git
 ```
 
 ### 2. Install Python dependencies
