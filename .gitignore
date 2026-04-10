@@ -1,0 +1,23 @@
+# Environment files
+.env
+
+# Intermediate and temporary files
+.tmp/
+*.log
+
+# Credentials and authentication tokens
+credentials.json
+token.json
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
