@@ -1,6 +1,8 @@
 # 📊 Reddit Engagement Dashboard
 
-A Python-powered automated system that tracks the most relevant discussions on **r/n8n** and **r/automation**, calculating real-time engagement and displaying results in a premium, responsive web dashboard.
+A Python-powered automated system that tracks the most recent and relevant discussions on **r/n8n** and **r/automation**, calculating real-time engagement and displaying results in a premium, responsive web dashboard.
+
+**🔗 [Live Demo - View Dashboard](https://danidds07.github.io/reddit-automation-app/)**
 
 ## 🚀 Features
 - **Auto-Fetching**: Retrieves the 100 most recent posts from targeted subreddits.
